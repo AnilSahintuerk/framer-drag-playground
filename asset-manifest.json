@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.553717a9.css",
-    "main.js": "/static/js/main.abda3575.js",
-    "index.html": "/index.html",
-    "main.553717a9.css.map": "/static/css/main.553717a9.css.map",
-    "main.abda3575.js.map": "/static/js/main.abda3575.js.map"
+    "main.css": "/framer-drag-playground/static/css/main.553717a9.css",
+    "main.js": "/framer-drag-playground/static/js/main.abda3575.js",
+    "index.html": "/framer-drag-playground/index.html",
+    "main.553717a9.css.map": "/framer-drag-playground/static/css/main.553717a9.css.map",
+    "main.abda3575.js.map": "/framer-drag-playground/static/js/main.abda3575.js.map"
   },
   "entrypoints": [
     "static/css/main.553717a9.css",
